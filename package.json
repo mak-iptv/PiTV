@@ -2,14 +2,14 @@
   "name": "PiTV",
   "version": "1.1.2",
   "description": "A cross-platform STB (IPTV) player client.",
-  "main": "src/main.js"
+  "main": "src/main.js",
   "scripts": {
     "start": "electron-forge start",
     "package": "electron-forge package",
     "make": "electron-forge make",
     "publish": "electron-forge publish",
     "lint": "echo \"No linting configured\""
-  },
+  }
   "keywords": [],
   "author": {
     "name": "Ozan Karaali",
